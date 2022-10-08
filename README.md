@@ -1,7 +1,7 @@
 # Legal Data Wrangling
 Claim Settlements for City of Austin (dataset is included via link in the script)
 
-Project for Panteion University under the course "Issues of Law and Economy"
+Project for Panteion University under the course "Issues of Law and Economy" in Base-R
 
 # What is included:
 
@@ -15,4 +15,3 @@ Project for Panteion University under the course "Issues of Law and Economy"
 * Statistics
 * Text mining
 * Regex
-* Base-R
