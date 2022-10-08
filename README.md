@@ -13,4 +13,5 @@ Project for Panteion University under the course "Issues of Law and Economy"
 * NA and Outlier treatment
 * EDA (tables and charts)
 * Statistics
-* Text mining 
+* Text mining
+* Regex
