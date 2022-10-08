@@ -15,3 +15,4 @@ Project for Panteion University under the course "Issues of Law and Economy"
 * Statistics
 * Text mining
 * Regex
+* Base-R
