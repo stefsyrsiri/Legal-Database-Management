@@ -1,0 +1,160 @@
+﻿_id,Claim Name,Incident Date,Department,Location of Incident (if applicable),Amount,Category,Disposition Type
+1,"Valdez, Michael",2015-02-28T00:00:00,Austin Fire Dept,Bulebell and Marigold,700.00,00 Auto,Claim Paid
+2,"Caballero, Rosita",2014-06-20T00:00:00,Austin Police Department,Webberville,7000.00,00 Auto,Claim Paid
+3,"Castillo, Angela",2015-04-02T00:00:00,Austin Police Department,8th Street,947.17,00 Auto,Claim Paid
+4,"Cutean, Nicki",2015-04-15T00:00:00,Austin Police Department,2nd Street & Guadalupe,1133.42,00 Auto,Claim Paid
+5,Ferrovial/ Toyota Lease Trust,2015-04-08T00:00:00,Austin Police Department,400 N. I35 service road,13663.31,00 Auto,Claim Paid
+6,"Hardwick, Andrew",2014-12-05T00:00:00,Austin Police Department,IH35 & Riverside,565.88,00 Auto,Claim Paid
+7,"Hardy, Ryan",2015-01-19T00:00:00,Austin Police Department,1200 E. 7th Street,4500.00,00 Auto,Claim Paid
+8,Henna Chevrolet,2015-02-28T00:00:00,Austin Police Department,3500 W. Parmer Lane,2000.00,00 Auto,Claim Paid
+9,Hertz (Hardy),2015-01-19T00:00:00,Austin Police Department,1200 East 7th,5660.00,00 Auto,Claim Paid
+10,"Kempter, Anne",2015-04-24T00:00:00,Austin Police Department,118 El Paso St.,50.00,00 Auto,Claim Paid
+11,"Kenyon, Rachel",2015-04-15T00:00:00,Austin Police Department,North Lamar and Morrow St.,3446.94,00 Auto,Claim Paid
+12,"Lopez de Araya Bengoa, Imanol (MINOR INVOLVED)",2015-04-08T00:00:00,Austin Police Department,400 N I35 service road,1590.02,00 Auto,Claim Paid
+13,"Scott, Nadia",2015-02-11T00:00:00,Austin Police Department,183 and Cameron,796.80,00 Auto,Claim Paid
+14,"Aleman, Nelda",2015-03-03T00:00:00,Austin Resource Recovery,600-700 block of Oltorf,1018.88,00 Auto,Claim Paid
+15,"Blair, Jackie",2015-03-24T00:00:00,Austin Resource Recovery,1114 Milford Way,450.00,00 Auto,Claim Paid
+16,"Grays, Jessica",2014-08-26T00:00:00,Austin Resource Recovery,Cameron Road near Rutherford Lane,10000.00,00 Auto,Claim Paid
+17,"Katz, Lauren",2015-04-03T00:00:00,Austin Resource Recovery,3207 A Merrie Lynn,499.94,00 Auto,Claim Paid
+18,"Rayburn, Charles",2013-01-05T00:00:00,Austin Resource Recovery,1100 Gunter,6343.75,00 Auto,Claim Paid
+19,"USAA (Butler, Bill)",2015-02-02T00:00:00,Austin Resource Recovery,3225 Oak Alley,1853.45,00 Auto,Claim Paid
+20,Allstate (Pitts),2015-01-03T00:00:00,Austin Water,360 and Lakewood,18374.67,00 Auto,Claim Paid
+21,AT&T (150280),2015-02-11T00:00:00,Austin Water,9201 Brown Lane,586.41,00 General Liability,Claim Paid
+22,AT&T (150480),2014-09-23T00:00:00,Austin Water,6700 S. Congress at 111 W. William Cannon,1080.42,00 General Liability,Claim Paid
+23,"Dawson, Jennifer",2015-02-05T00:00:00,Austin Water,3601 W. William Cannon Drive,655.52,00 Auto,Claim Paid
+24,"Reed Hawkins, Tam",2015-02-19T00:00:00,Austin Water,1188 Airport,1679.09,00 Auto,Claim Paid
+25,"Rodriguez, Gina",2013-12-02T00:00:00,Austin Water,2300 Parker Lane,1000.00,00 Auto,Claim Paid
+26,"Saucedo, Blondena",2015-03-23T00:00:00,Austin Water,W MLK and Lavaca,886.31,00 Auto,Claim Paid
+27,Texas Gas (150257),2014-09-09T00:00:00,Austin Water,2501 Willow Street,236.03,00 General Liability,Claim Paid
+28,Seton (Brackenridge),2015-05-04T00:00:00,EMS,Brackenridge,2437.03,00 Auto,Claim Paid
+29,"Stringer, John",2014-09-03T00:00:00,EMS,6816 Crestone Rd.,1113.56,00 Auto,Claim Paid
+30,"Guo, Sue",2015-02-09T00:00:00,Health and Human Services,800 N IH 35 Parking Garage,7765.47,00 General Liability,Claim Paid
+31,"Washington, Cynthia",2015-02-05T00:00:00,Health and Human Services,RBJ Health Center-15 Waller St.,492.73,00 General Liability,Claim Paid
+32,"Garcia, Miranda",2015-04-13T00:00:00,Parks and Recreation,Austin Memorial Park Cemetery,256.21,00 General Liability,Claim Paid
+33,"Goodall, Jannette",2015-04-21T00:00:00,Parks and Recreation,Cesar Chavez near Sandra Muraida Way,241.00,00 General Liability,Claim Paid
+34,"Herbert, Robert",2015-03-31T00:00:00,Parks and Recreation,Butler Park,250.00,00 General Liability,Claim Paid
+35,"Martinez, Rudy",2015-02-16T00:00:00,Parks and Recreation,2004 Jesse E. Segovia,3459.00,00 Auto,Claim Paid
+36,"Young, Rebecca",2015-03-24T00:00:00,Parks and Recreation,enfield park,258.72,00 Auto,Claim Paid
+37,"Carter, Raymond",2014-12-04T00:00:00,Public Works,400 blk Ed Bluestein NB service road and Levander Loop at Airport Turn,7000.00,00 Auto,Claim Paid
+38,Genie Carwash,2015-02-13T00:00:00,Public Works,7320 Burnet Road,474.62,00 Auto,Claim Paid
+39,"Gries, Laurel",2014-07-15T00:00:00,Public Works,800 Prince Ave.,265.28,00 Auto,Claim Paid
+40,"Remey, Bob",2015-05-01T00:00:00,Public Works,2407 Apple Valley Circle,635.00,00 Auto,Claim Paid
+41,"Seals, Dorcas",2015-03-16T00:00:00,Public Works,Congress and 9th St.,1178.75,00 Auto,Claim Paid
+42,"Horty, Christie",2015-01-23T00:00:00,Transportation,Congress ave at 4th street,4598.59,00 Auto,Claim Paid
+43,"Acuna, Daniel",2014-12-17T00:00:00,Parks and Recreation,Mexican Arts Cultural Center,348.85,00 General Liability,Claim Paid
+44,"Africk, Max (formerly State Farm)",2014-03-24T00:00:00,EMS,1100 Trinity,350.00,00 Auto,Claim Paid
+45,"Aggarwal, Sapna",2014-10-14T00:00:00,Austin Resource Recovery,3507 Peregrine Falcon Drive,650.00,00 Auto,Claim Paid
+46,"Alexander, Cassandra",2015-02-19T00:00:00,Parks and Recreation,Caesar Chavez and Guadalupe,199.36,00 General Liability,Claim Paid
+47,Allstate (Rainosek),2014-05-02T00:00:00,Austin Resource Recovery,1300 E. 30th near Dancy St.,5938.44,00 Auto,Claim Paid
+48,"Bailey, Debra",2014-10-21T00:00:00,Public Works,8500 Andreas Cove,522.00,00 Auto,Claim Paid
+49,"Baker, Brian",2014-09-04T00:00:00,Austin Water,1st and Trinity,330.00,00 Auto,Claim Paid
+50,Barkley Houses,2015-01-12T00:00:00,Austin Water,1401 Ashwood,1019.48,00 Auto,Claim Paid
+51,Barton Springs Upholstery,2015-03-12T00:00:00,Parks and Recreation,1410 Barton Springs Road,313.51,00 General Liability,Claim Paid
+52,"Burrough, Jennifer",2014-12-01T00:00:00,Austin Fire Dept,Slaughter Ln & Manchaca Rd,1003.44,00 Auto,Claim Paid
+53,"Chopra, Aditya",2014-07-06T00:00:00,Austin Police Department,38th & Lamar,621.03,00 Auto,Claim Paid
+54,"DeLoach, Catina Gibson",2014-10-24T00:00:00,Austin Water,702 Newcastle Drive,7000.00,00 General Liability,Claim Paid
+55,Farmers (Braunstein),2015-01-03T00:00:00,Austin Police Department,unknown,1386.17,00 Auto,Claim Paid
+56,Farmers (Chapman),2014-09-25T00:00:00,Austin Police Department,Berkman and Briardiff,2931.68,00 Auto,Claim Paid
+57,"Gass, Laura",2015-01-21T00:00:00,Austin Fire Dept,500 block of South 1st,990.18,00 Auto,Claim Paid
+58,GEICO (Cranford),2014-12-10T00:00:00,Austin Water,Airport Blvd & E. 53rd St.,1013.38,00 Auto,Claim Paid
+59,"GEICO (Demarco, Danielle)",2014-10-02T00:00:00,Austin Police Department,E. 8th & Trinity,6501.63,00 Auto,Claim Paid
+60,"GEICO (Kelly, Katrina)",2014-09-05T00:00:00,Austin Police Department,Manchaca and William Cannon,1874.66,00 Auto,Claim Paid
+61,GMR Marketing,2014-07-13T00:00:00,Austin Police Department,6620 Blue Bluff,839.35,00 Auto,Claim Paid
+62,"Guzy, Dylan",2014-10-09T00:00:00,EMS,38 1/2 and IH 35 South Frontage Road,1665.31,00 Auto,Claim Paid
+63,"Hernandez, Mauricio",2014-11-28T00:00:00,Austin Police Department,1900 Grove Blvd,2710.31,00 Auto,Claim Paid
+64,"Hyde, James",2015-02-02T00:00:00,Austin Water,4704 Crestway Drive,590.00,00 General Liability,Claim Paid
+65,"Jahnke, Nick",2014-09-30T00:00:00,Austin Water,6220 Perlita Drive,1345.52,00 General Liability,Claim Paid
+66,"Kasson, Mike",2014-11-19T00:00:00,Austin Resource Recovery,1200 South 3rd Street,2092.33,00 Auto,Claim Paid
+67,"Kelly, Paul",2014-09-05T00:00:00,Austin Police Department,1900 William Cannon,8000.00,00 Auto,Claim Paid
+68,"Liu, Jennifer",2014-07-16T00:00:00,Austin Resource Recovery,11801 Knights Bridge,125.00,00 Auto,Claim Paid
+69,"Loar, Raymond",2014-11-04T00:00:00,Austin Police Department,3900 S. Lamar,1914.43,00 Auto,Claim Paid
+70,"McShane, Maureen",2015-03-11T00:00:00,Parks and Recreation,Waterloo Park,283.44,00 General Liability,Claim Paid
+71,"Meade, Jon",2015-01-06T00:00:00,Planning and Development Review,OTC-505 Barton Springs,1886.60,00 Auto,Claim Paid
+72,MetLife (Hannel),2014-10-27T00:00:00,Austin Fire Dept,unknown,4049.68,00 Auto,Claim Paid
+73,Mets Mart,2014-10-14T00:00:00,Austin Resource Recovery,2800 W. William Cannon,15500.00,00 Auto,Claim Paid
+74,Needle Works,2015-01-02T00:00:00,Austin Resource Recovery,4401 Medical Pkwy,,00 Auto,Claim Paid
+75,"Nevarez, Gilbert",2014-06-20T00:00:00,Austin Police Department,Webberville Rd.,10904.69,00 Auto,Claim Paid
+76,"Nilsen (Adams), Lisa",2015-02-03T00:00:00,Austin Resource Recovery,1213 Bickler,2114.11,00 Auto,Claim Paid
+77,"Pollard, Kristy",2014-10-19T00:00:00,Austin Resource Recovery,6805 Fence Line Drive,313.15,00 Auto,Claim Paid
+78,Progressive (Jones),2014-05-20T00:00:00,Austin Police Department,605 Masterson Pass,1930.41,00 Auto,Claim Paid
+79,"Ramos, Juan",2014-11-18T00:00:00,Public Works,Woodward & Hwy 71,1114.90,00 Auto,Claim Paid
+80,"Reyna, Eduardo and Marilu",2014-10-23T00:00:00,Parks and Recreation,11714 Bittern Hollow,955.90,00 Auto,Claim Paid
+81,"Rincon, Anna",2015-02-06T00:00:00,EMS,2800 East MLK,2990.28,00 Auto,Claim Paid
+82,"Rivera, Ana",2014-12-30T00:00:00,Austin Police Department,500 West William Cannon,2260.41,00 Auto,Claim Paid
+83,"Rodriguez, Maria",2014-12-19T00:00:00,Public Works,800 Gunter Street near Sellers Street,1756.58,00 Auto,Claim Paid
+84,"Rude, Stephanie",2015-01-22T00:00:00,Austin Resource Recovery,4401 Stony Meadow Lane,200.00,00 Auto,Claim Paid
+85,"Shepard, Craig",2014-12-01T00:00:00,Austin Water,4114 Balcones Woods Drive,133.50,00 General Liability,Claim Paid
+86,"Shook, Nicole",2014-11-19T00:00:00,Public Works,Hwy 360,2466.04,00 Auto,Claim Paid
+87,"Smart, Matthew",2014-11-22T00:00:00,EMS,1840 Burton Drive,1591.61,00 Auto,Claim Paid
+88,"Smith, Orlando",2014-11-14T00:00:00,Austin Water,11507-B Walnut Ridge,257.13,00 General Liability,Claim Paid
+89,"Sweets, Ellen",2014-08-16T00:00:00,Transportation,Montopolis Bridge & Ben White Blvd.,2747.05,00 Auto,Claim Paid
+90,"Totten, William",2014-11-14T00:00:00,Parks and Recreation,IH 35 NB,1567.23,00 Auto,Claim Paid
+91,USAA (Reynolds),2014-07-03T00:00:00,EMS,7th & IH35,9943.93,00 Auto,Claim Paid
+92,Vision Insurance (Aguilar),2014-10-23T00:00:00,Health and Human Services,3209 Red River parking lot,1483.65,00 Auto,Claim Paid
+93,"Warren, Robert",2014-08-18T00:00:00,Austin Fire Dept,Brackenridge,1292.56,00 Auto,Claim Paid
+94,"Weaver, Dennis",2014-12-04T00:00:00,Public Works,400 blk Ed Bluestein and Levander Loop at Airport,2212.86,00 Auto,Claim Paid
+95,"Williams, Marley Faye",2014-09-25T00:00:00,Parks and Recreation,2200 Red River,1098.42,00 Auto,Claim Paid
+96,"Zapata, Ronnie",2011-03-03T00:00:00,Austin Water,1124 Denfield,770.26,00 Auto,Claim Paid
+97,"Abramson, Marissa",2014-06-13T00:00:00,Austin Fire Dept,704 1/2 Landon Lane,1881.59,00 Auto,Claim Paid
+98,"Acebo, Jessica",2014-11-18T00:00:00,Parks and Recreation,Butler Park near Barton Springs Road,270.39,00 General Liability,Claim Paid
+99,"Aviles, Delia",2014-09-29T00:00:00,Health and Human Services,Cepeda Library - 651 N Pleasant Valley Road,167.79,00 General Liability,Claim Paid
+100,"Belkin, Bonnie",2014-08-28T00:00:00,Parks and Recreation,Doherty Arts Center parking lot,882.29,00 Auto,Claim Paid
+101,"Benjamin, Andre",2014-12-05T00:00:00,EMS,1007 E. Rundberg Lane,1937.00,00 Auto,Claim Paid
+102,"Brown, Brien",2014-09-08T00:00:00,Austin Fire Dept,AFD training center,3953.66,00 Auto,Claim Paid
+103,Capital Metro (110351),2011-02-04T00:00:00,Austin Water,N. Lamar & Crestview,11000.00,00 General Liability,Claim Paid
+104,"Cleto, Paula",2014-09-05T00:00:00,Austin Resource Recovery,E. 29th & Robinson Ave.,3106.00,00 Auto,Claim Paid
+105,"Cobos, Alfredo",2014-08-06T00:00:00,FSD - Building Services,Springdale and E. Cesar Chavez,437.05,00 Auto,Claim Paid
+106,"Continental Collision Center (Gordon, Sheri)",2014-10-07T00:00:00,Public Works,Koenig Lane and North Lamar,5344.80,00 Auto,Claim Paid
+107,"Crow, Jesse",2014-08-26T00:00:00,Austin Resource Recovery,Brooklyn Street and E. Live Oak,2529.34,00 Auto,Claim Paid
+108,"Estrada, Debra",2014-10-27T00:00:00,Public Works,Burleson Road about 1/2 mile from Hwy 183,167.67,00 General Liability,Claim Paid
+109,Farmers Insurance (McAbeer),2014-06-06T00:00:00,Austin Resource Recovery,2102 Sharon Lane,8317.96,00 Auto,Claim Paid
+110,"Franklin, Nicole",2014-10-27T00:00:00,Aviation,ABIA,250.31,00 General Liability,Claim Paid
+111,GEICO (Bhalke),2014-06-26T00:00:00,Parks and Recreation,Hwy 183 at IH35,8616.93,00 Auto,Claim Paid
+112,"Gholoom, Husain",2014-08-19T00:00:00,Code Compliance Department,Barstow and Via Correto Drive,4681.19,00 Auto,Claim Paid
+113,"Gomez, Jose de Jesus",2014-08-21T00:00:00,Public Works,1200 Westover Road,581.30,00 Auto,Claim Paid
+114,"Hairston, Mary",2014-10-21T00:00:00,Austin Water,Lamar and Cesar Chavez,902.25,00 Auto,Claim Paid
+115,"Hardy, William",2014-11-24T00:00:00,Health and Human Services,Carver Library,223.66,00 General Liability,Claim Paid
+116,"Hernandez, Carolina",2014-02-25T00:00:00,(WPD) Watershed Protection and Development Review,"",12580.00,00 Auto,Claim Paid
+117,"Hernandez, Esmeralda and Maximino",2014-06-20T00:00:00,Austin Police Department,Webberville,7540.20,00 Auto,Claim Paid
+118,"Hinojo, Abner",2014-08-28T00:00:00,Planning and Development Review,6th & Lamar,3251.92,00 Auto,Claim Paid
+119,"Huerta, Gilbert",2014-10-09T00:00:00,Parks and Recreation,Waterlook Park at Trinity and 14th Street,347.42,00 General Liability,Claim Paid
+120,"Kutsche, Jyl",2014-09-26T00:00:00,Austin Police Department,Manchaca & Jones,838.28,00 Auto,Claim Paid
+121,"Lewis, Stacey",2014-09-23T00:00:00,Austin Water,100 N. IH 35,944.25,00 Auto,Claim Paid
+122,"Mendieta, Nancy",2014-08-28T00:00:00,Library,Faulk Library,1982.74,00 Auto,Claim Paid
+123,"Mondragon, Maricela",2014-06-03T00:00:00,Austin Police Department,6000 N. Lamar,859.06,00 Auto,Claim Paid
+124,"MTG Management, Inc.",2014-07-05T00:00:00,Austin Police Department,4001 Medical Parkway,3694.03,00 Auto,Claim Paid
+125,National Car Rental,2014-07-07T00:00:00,Public Works,Ben White & Pack Saddle Pass,2864.93,00 Auto,Claim Paid
+126,"Nguyen, Alan",2014-05-23T00:00:00,Austin Resource Recovery,4504 Elwood Rd.,1798.11,00 Auto,Claim Paid
+127,"Nieto, Luis",2014-08-08T00:00:00,Parks and Recreation,William Cannon EB & Stoneleigh,2775.00,00 Auto,Claim Paid
+128,"Ortiz, Bianca Zuniga - minor involved",2014-02-14T00:00:00,Austin Police Department,Thaxton Rd. & McKinney Falls,7000.00,00 Auto,Claim Paid
+129,"Ortiz, Laura - minor involved dob  3/30/11",2014-02-14T00:00:00,Austin Police Department,Thaxton Rd. and McKinney Falls,1000.00,00 Auto,Claim Paid
+130,"Ortiz, Odalys - minor involved dob 7/26/13",2014-02-14T00:00:00,Austin Police Department,Thaxton Rd. and McKinney Falls,1000.00,00 Auto,Claim Paid
+131,Parking Co. of America,2014-07-24T00:00:00,Aviation,ABIA,390.72,00 General Liability,Claim Paid
+132,"Peralta, Patrick",2014-09-08T00:00:00,Austin Police Department,520 W. Slaughter CVS,1811.17,00 Auto,Claim Paid
+133,"Perez, Fernando",2014-09-12T00:00:00,Parks and Recreation,3303 N Lamar,733.99,00 Auto,Claim Paid
+134,"Powell, Dolores",2014-10-02T00:00:00,Parks and Recreation,Bull Creek Green Belt,1057.54,00 General Liability,Claim Paid
+135,Progressive (Stillwell),2014-07-30T00:00:00,Public Works,Mopac at Rollingwood exit,11260.01,00 Auto,Claim Paid
+136,"Ramos, Jonathan Adrian",2014-04-10T00:00:00,Austin Police Department,S. 1st St.,3402.21,00 Auto,Claim Paid
+137,"Ross,  Sean",2014-08-27T00:00:00,Austin Police Department,7112 Outfitter,633.02,00 Auto,Claim Paid
+138,"Scharf, Matthew",2014-10-15T00:00:00,Austin Water,7113 FM 969 - Walnut Creek Wastewater Treatment Plant,356.64,00 General Liability,Claim Paid
+139,"Shafer, Phillip",2014-07-31T00:00:00,Austin Water,W. Koenig,11423.74,00 Auto,Claim Paid
+140,"Sherman, Diana",2014-04-21T00:00:00,Parks and Recreation,919 W. 28 1/2 St.,683.33,00 Auto,Claim Paid
+141,"Small, Pauline",2013-04-14T00:00:00,EMS,11709 Brookwood Rd.,155000.00,00 General Liability,Claim Paid
+142,"Snavely, Mike",2014-10-01T00:00:00,Austin Police Department,8100 N. Mopac access road,1724.04,00 Auto,Claim Paid
+143,State Farm (Huerta),2014-08-25T00:00:00,Austin Water,2200 E. Riverside Drive,4216.55,00 Auto,Claim Paid
+144,State Farm (Wright),2014-03-20T00:00:00,Public Works,Metric and Boyer Blvd.,8320.35,00 Auto,Claim Paid
+145,Texas Gas,2014-07-22T00:00:00,Austin Water,2405 Willow Street,334.23,00 General Liability,Claim Paid
+146,The Cleaning Authority,2014-06-03T00:00:00,Austin Police Department,6000 N. Lamar,1072.28,00 Auto,Claim Paid
+147,"Tobias, Josefina",2014-03-06T00:00:00,Austin Police Department,Hwy 183 & Cap of TX Hwy,8366.42,00 Auto,Claim Paid
+148,"Torres or Fuller, Eric",2014-07-07T00:00:00,Austin Police Department,Burnet & Braker,3077.47,00 Auto,Claim Paid
+149,Travis County ESD 12,2014-10-08T00:00:00,EMS,101 Boyce Lane,2736.83,00 Auto,Claim Paid
+150,Valburn Court HOA,2014-08-10T00:00:00,Austin Resource Recovery,Valburn Court,1175.00,00 Auto,Claim Paid
+151,"Velandia, Maria",2014-03-06T00:00:00,Austin Police Department,9th & Lavaca,3207.85,00 Auto,Claim Paid
+152,"Villarreal, Jacob",2014-07-10T00:00:00,Austin Resource Recovery,5309 Waterbrook at 5300 Middale,3725.00,00 Auto,Claim Paid
+153,"Walsworth, Tim",2014-09-23T00:00:00,Aviation,ABIA parking lot,1033.74,00 General Liability,Claim Paid
+154,"Weidlich, Lorre",2014-09-05T00:00:00,Austin Resource Recovery,4313 Avenue F,458.23,00 Auto,Claim Paid
+155,"Wheels, Inc.",2014-08-28T00:00:00,Planning and Development Review,6th and Lamar,1045.24,00 Auto,Claim Paid
+156,"Wilson, Frank",2014-08-16T00:00:00,Austin Police Department,12425 Lamplight Village,2430.95,00 Auto,Claim Paid
+157,"Wilson, Patricia",2014-10-02T00:00:00,Parks and Recreation,Lower Bull Creek Parking Lot,371.74,00 General Liability,Claim Paid
+158,"Wrachford, Tim (Austin Southern Lawn Care)",2014-10-22T00:00:00,Austin Resource Recovery,7211 Fire Oak Drive,100.00,00 Auto,Claim Paid
+159,"Ziegler, Sean",2014-10-02T00:00:00,Parks and Recreation,Garrison Park,511.98,00 General Liability,Claim Paid
