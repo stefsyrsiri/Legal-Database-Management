@@ -8,7 +8,7 @@
 
 ### Files of the Project
 - `Legal Data.R`: The full R code of the wrangling and analysis.
-- `Legal_Data.ipynb`: Report of the code with outputs.
+- `Legal_Data.ipynb`: Report and demonstration of the code.
 - `claim_settlements_city_of_austin`: Dataset used for the analysis.
 
 ### Dataset
