@@ -1,17 +1,18 @@
-# Legal Data Wrangling
-Claim Settlements for City of Austin (dataset is included via link in the script)
+# Legal Data Wrangling | Claim Settlements for City of Austin
+![banner](https://github.com/user-attachments/assets/14f9a7ed-2f67-43a5-982d-7bf2381022cf)
 
-Project for Panteion University under the course "Issues of Law and Economy" in Base-R
+### Table of Contents
+- [Files of the Project](#files-of-the-project)
+- [Dataset](#dataset)
+- [Contact Information](#contact-information)
 
-# What is included:
+### Files of the Project
+- `Legal Data.R`: The full R code of the wrangling and analysis.
+- `Legal_Data.ipynb`: Report of the code with outputs.
+- `claim_settlements_city_of_austin`: Dataset used for the analysis.
 
-* Discovery of Data
-* Structuring
-* Variable transformation
-* Time period calculations
-* Cleaning
-* NA and Outlier treatment
-* EDA (tables and charts)
-* Statistics
-* Text mining
-* Regex
+### Dataset
+The dataset has 159 records and can be found <a href="https://data.amerigeoss.org/dataset/claim-settlements-for-city-of-austin1">here</a>
+
+### Contact Information
+If you have any questions, suggestions, or just want to connect, message me on <a href="https://www.linkedin.com/in/stefania-syrsiri/">LinkedIn</a> 😸
