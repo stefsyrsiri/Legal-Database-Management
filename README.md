@@ -9,7 +9,7 @@
 ### Files of the Project
 - `Legal Data.R`: The full R code of the wrangling and analysis.
 - `Legal_Data.ipynb`: Report and demonstration of the code.
-- `claim_settlements_city_of_austin`: Dataset used for the analysis.
+- `claim_settlements_city_of_austin.csv`: Dataset used for the analysis.
 
 ### Dataset
 The dataset has 159 records and can be found <a href="https://data.amerigeoss.org/dataset/claim-settlements-for-city-of-austin1">here</a>
